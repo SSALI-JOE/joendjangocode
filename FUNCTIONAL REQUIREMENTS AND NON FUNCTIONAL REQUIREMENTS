@@ -1,0 +1,20 @@
+FUNCTIONAL REQUIREMENTS
+INTERNSHIP LOGGING AND EVALUATION SYSTEM (ILES) will able to do the following
+- manage users (STudents and Supervisors) or Roles
+- provide internship Placement (Internship placement module)
+- Allow weekly logs by students for work done and later on report evaluation by supervisiors (weekly log book module)
+- Allow work supervisors to review work flow
+- Weighted score computation
+- Academic evaluation by Academic supervisors
+- Dashboards and reporting
+
+NON FUNCTIONAL REQUIREMENTS
+The ILES system will be a web based platform composed of a website having the following
+HTML- HYPER TEXT MARKUP LANGUAGE (HTML)-responsible for the structure of the webpage
+CSS-Cascading Style Sheets - For styling the HTML webpage like adding graphics, colur excetra
+JAVASCRIPT- For determining the behaviour of the webpage and website.
+This system has two parts namely:
+THE FRONT END - Enables users to browse to the website and make a request. developed by software professionals known as front End  using JAVASCRIPT
+THE BACK END - Its the server end and holds the information or requests needed or requested for those browsing and responds to them "a term we call RESPONSE."
+The BACKEND is developed using DJANGO
+
